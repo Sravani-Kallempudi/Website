@@ -1,2 +1,2 @@
 # Portfolio-Website
- This is my portfolio website.
+ Practicing HTML, CSS, JS to create a personal website.
